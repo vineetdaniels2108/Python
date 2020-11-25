@@ -1,0 +1,173 @@
+html{
+    width: 875px;
+}
+
+.block1 {
+    background-color: rgb(37,80,118);
+}
+
+.header {
+    display: flex;
+}
+
+.header p{
+    display: flex;
+}
+
+.header img{
+    width: 389px;
+    margin-right: 200px;
+}
+
+.textsize{
+    display: flex;
+    text-align: left;
+    margin-left: 100px;
+}
+
+.textsize p{
+    margin-top: 0px;
+    font-size: small;
+}
+
+.textsize a{
+    color: yellow;
+    font-size: small;
+}
+
+.searchbox{
+    width: 40px;
+    display: contents;
+    padding-top: 18px;
+    padding-left: 42px;
+}
+
+.greybox{
+    background-color:rgb(68,68,68);
+    width: 250px;
+    height: 50px;
+    box-shadow: 5px 5px;
+    border-radius: 5px;
+}
+
+input{
+    border-top-width: 0px;
+    margin-top: 13px;
+    padding-top: 3px;
+    padding-left: 0px;
+    margin-left: 37px;
+}
+
+button{
+    background-color: rgb(37,80,118);
+    color: white;
+}
+
+.body ul{
+    background-color: rgb(71,127,173);
+    display: flex;
+    list-style-type: none;
+    margin: 20px;
+    padding-left: 0px;
+    box-shadow: 5px 5px;
+    border-radius: 5px;
+}
+
+.body ul li{
+    margin: 10px 35px;
+    font-weight: bold;
+    color: white;
+}
+
+.body {
+    background-color: rgb(37,80,118);
+}
+
+.content{
+    display: -webkit-box;
+}
+
+.content ul{
+    text-align: center;
+    padding-left: 0px;
+    margin-left: 99px;
+    margin-right: 50px;
+    list-style-position: inside;
+}
+
+.content a{
+    color: white;
+}
+
+.content li{
+    margin: 10px;
+}
+
+.content p{
+    width: 500px;
+    text-align: center;
+    color: white;
+}
+
+.contentright ul{
+    margin-left: 0px;
+    list-style-type: none;
+    color: yellow;
+    font-style: italic;
+    font-size: smaller;
+}
+
+.contentright p{
+    font-style: normal;
+}
+
+.gettingstarted {
+    background-color: white;
+    display: flex;
+    font-size: medium;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.gettingstarted h3{
+    border-top: 5px solid rgb(115,167,213);
+    padding-top: 20px;
+    margin-left: 10px;
+}
+
+.gettingstarted ul{
+    padding-left: 100px;
+    padding-right: 80px;
+}
+
+.gettingstarted li{
+    color: rgb(125,174,216);
+}
+
+.gettingstarted a{
+    color: rgb(125,174,216);
+    text-decoration: none; 
+}
+
+#footerlist{
+    display: flex;
+    margin-left: 80px;
+}
+
+.footer h3{
+    display: flex;
+    padding: 30px;
+    opacity: 0.5;
+    color: rgb(125,174,216);
+    font-size: medium;
+    margin-bottom: 0px;
+    padding-bottom: 5px;
+}
+
+#copyright{
+    text-align: center;
+    opacity: 0.5;
+    color: rgb(125,174,216);
+    font-size: smaller;
+}
